@@ -28,6 +28,11 @@ and [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 and my friends: YNJ,JLP.
 Without their guidance and code, this project GPSD can not complete!
  
+## Treasure
+search_hyperparams.py
+run more than 100+ experiments through configuration, very convenient to manage.
+
+ 
 ## Dataset
 baidu netdisk:
 
