@@ -19,8 +19,14 @@ link:
  the mAP is calculated by setting the threshold confidence to 0.
  However, I do not open the strict limited condition. Later, I open the limited condition in dataset/process.py->match_marking_points(),  the mAP is a slight decline.  What's more, we can transform the major metric from mAP to Recall.
  
-## other branch
+## Other branch
 **master** is the subimage version, and the **fullimage** is the fullimage version
+ 
+## Thanks.
+Thanks for the great work!: [DMPR-PS](https://github.com/Teoge/DMPR-PS)
+and [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+and my friends: YNJ,JLP.
+Without their guidance and code, this project GPSD can not complete!
  
 ## Dataset
 baidu netdisk:
