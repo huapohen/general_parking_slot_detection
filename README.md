@@ -7,6 +7,9 @@ link:
 
 [自动泊车之通用停车位检测算法（下篇）](https://zhuanlan.zhihu.com/p/522630354)
 
+[supplementary material, videos:](https://pan.baidu.com/s/1iTVvIJQWhV1nC8cbsBN2Yg)  gpsd 
+
+
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/5.jpg)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/4.jpg)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/1.jpg)
