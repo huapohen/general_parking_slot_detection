@@ -1,4 +1,13 @@
 # General Parking Slot Detection
+
+## Description
+zhihu link:
+
+[自动泊车之通用停车位检测算法（上篇）](https://zhuanlan.zhihu.com/p/521821002)
+
+[自动泊车之通用停车位检测算法（下篇）](https://zhuanlan.zhihu.com/p/522630354)
+
+https://pica.zhimg.com/v2-73d6c0fe37e3c8595da127e2c84f9c32_1440w.jpg?source=172ae18b
  
 ## Dataset
 baidu netdisk:
