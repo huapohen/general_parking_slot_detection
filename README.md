@@ -1,7 +1,7 @@
 # General Parking Slot Detection
 
 ## Description
-zhihu link:
+link:
 
 [自动泊车之通用停车位检测算法（上篇）](https://zhuanlan.zhihu.com/p/521821002)
 
@@ -19,7 +19,8 @@ zhihu link:
  the mAP is calculated by setting the threshold confidence to 0.
  However, I do not open the strict limited condition. Later, I open the limited condition in dataset/process.py->match_marking_points(),  the mAP is a slight decline.  What's more, we can transform the major metric from mAP to Recall.
  
- 
+## other branch
+**master** is the subimage version, and the **fullimage** is the fullimage version
  
 ## Dataset
 baidu netdisk:
