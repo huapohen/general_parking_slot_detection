@@ -7,7 +7,19 @@ zhihu link:
 
 [自动泊车之通用停车位检测算法（下篇）](https://zhuanlan.zhihu.com/p/522630354)
 
- ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/v2-73d6c0fe37e3c8595da127e2c84f9c32_1440w.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/5.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/4.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/1.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/2.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/6.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/7.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/8.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/9.jpg)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/3.jpg)
+ the mAP is calculated by setting the threshold confidence to 0.
+ However, I do not open the strict limited condition. Later, I open the limited condition in dataset/process.py->match_marking_points(),  the mAP is a slight decline.  What's more, we can switch the major metric fromt mAP to Recall.
+ 
+ 
  
 ## Dataset
 baidu netdisk:
