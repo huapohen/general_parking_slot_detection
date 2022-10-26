@@ -1,0 +1,17 @@
+2022-08-09 09:35:19,369 - Output and logs will be saved to /home/data/lwb/code/autoparking/experiments/parking_slot_detection/exp_202/evaluate.log
+2022-08-09 09:35:19,369 - Creating the dataset...
+2022-08-09 09:35:19,369 - Dataset type: test, transform type: basic
+2022-08-09 09:35:20,857 - 
+                ==============================
+                Input  shape: (1, 256, 256)
+                Output shape: (8, 8, 8)
+                Flops: 379.7 M
+                Params: 2.0 M
+                ==============================
+2022-08-09 09:35:20,858 - exp_id: 202
+2022-08-09 09:35:33,225 - Loaded models from: yolox_single_scale_test_model_best.pth
+2022-08-09 09:35:33,228 - Ckpt load: net
+2022-08-09 09:35:33,230 - Starting test
+2022-08-09 09:35:33,237 - dataset: fullimg 
+2022-08-09 09:35:52,127 - Loss/valid epoch_test 0: total_loss: 0.074751 | average_precision: 0.901612 | Precision: 0.9377, Recall: 0.9201, Accuracy: 0.9937 | Recall_ava: 0.9322, Recall_occ: 0.8855 | inference_threshold: 0.5 | TP=1958, FP=130, TN=45037, FN=170, Slots=TP+FN=2128 | TP_ava=1471, FN_ava=107, ava_cnt=1578 | TP_occ=487, FN_occ=63, occ_cnt=550 | confidence_errs: 0.004436 | available_errs: 0.017188 | coord_dist_errs: 0.003438 | point_x_errs: 0.001964 | point_y_errs: 0.002392 | entryLine_coord_errs: 0.011765 | entryLine_radian_errs: 0.015663 | entryLine_angle_errs: 0.9 | entryLine_cos_errs: 0.015380 | entryLine_sin_errs: 0.001070 | sepLine_radian_errs: 0.012692 | sepLine_angle_errs: 0.7 | sepLine_cos_errs: 0.001060 | sepLine_sin_errs: 0.012367 | reg_scores_entry_angle: 0.032112 | reg_scores_sep_angle: 0.026119 | reg_scores_objpoint: 0.007794 | reg_scores: 0.099415 
+2022-08-09 09:35:52,127 - [1m[32mtest Results: total_loss: 0.0748 | Recall: 0.9201 | average_precision: 0.9016 | Precision: 0.9377 | Accuracy: 0.9937 | Recall_ava: 0.9322 | Recall_occ: 0.8855 | inference_threshold: 0.5000 | TP: 1958 | FP: 130 | TN: 45037 | FN: 170 | Slots=TP+FN: 2128 | TP_ava: 1471 | FN_ava: 107 | ava_cnt: 1578 | TP_occ: 487 | FN_occ: 63 | occ_cnt: 550 | confidence_errs: 0.0044 | available_errs: 0.0172 | coord_dist_errs: 0.0034 | point_x_errs: 0.0020 | point_y_errs: 0.0024 | entryLine_coord_errs: 0.0118 | entryLine_radian_errs: 0.0157 | entryLine_angle_errs: 0.8974 | entryLine_cos_errs: 0.0154 | entryLine_sin_errs: 0.0011 | sepLine_radian_errs: 0.0127 | sepLine_angle_errs: 0.7272 | sepLine_cos_errs: 0.0011 | sepLine_sin_errs: 0.0124 | reg_scores_entry_angle: 0.0321 | reg_scores_sep_angle: 0.0261 | reg_scores_objpoint: 0.0078 | reg_scores: 0.0994[0m
