@@ -21,7 +21,7 @@ experiments records: [200 exps](https://kdocs.cn/l/cnqdZU59SRuX)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/9.jpg)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/3.jpg)
  the mAP is calculated by setting the threshold confidence to 0.
- However, I do not open the strict limited condition. Later, I open the limited condition in dataset/process.py->match_marking_points(),  the mAP is a slight decline.  What's more, we can transform the major metric from mAP to Recall.
+ However, I do not open the strict limited condition. Later, I open the limited condition in dataset/process.py->match_marking_points(),  the mAP is a obvious **decline/descend**.  What's more, we can transform the major metric from mAP to Recall.
  
 ## Other branch
 **master** is the subimage version, and the **fullimage** is the fullimage version
