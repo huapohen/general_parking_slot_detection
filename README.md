@@ -17,7 +17,7 @@ evaluate.py则为单独用来跑测试的。
 超轻量级的（指flops 几十M这种），推理出来的效果有点差强人意，把flops整大点，效果会非常好。
 至于超轻量级flops 几十这种。是通过PPLCNet的banckbone来改的，这个快。
 而默认用YOLOX的darknet，效果好。
-
+哦，对了，端到端，无后处理。要的就是这种！而且结构简单
 
 
 link:
