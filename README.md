@@ -1,5 +1,9 @@
 # General Parking Slot Detection
  
+ 百度网盘：
+链接：https://pan.baidu.com/s/1Q5tgY68nE_QsWuhYM2LHtw 
+提取码：gpsd 
+ 
 ## Requirements
 - numpy
 - opencv
