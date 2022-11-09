@@ -1,4 +1,6 @@
 # General Parking Slot Detection
+
+ 一个train好的实验的权重
  
  百度网盘：
 链接：https://pan.baidu.com/s/1Q5tgY68nE_QsWuhYM2LHtw 
