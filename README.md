@@ -48,11 +48,6 @@ one experiment pretrain weight 部分实验的预训练权重：https://pan.baid
 ## Other branch
 **master** is the subimage version, and the **fullimage** is the fullimage version
  
-## Thanks.
-Thanks for the great work!: [DMPR-PS](https://github.com/Teoge/DMPR-PS)
-and [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
-and my friends: YNJ,JLP.
-Without their guidance and code, this project GPSD can not complete!
  
 ## Treasure
 search_hyperparams.py
