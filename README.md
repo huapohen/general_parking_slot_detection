@@ -1,6 +1,7 @@
 # General Parking Slot Detection
 
 ## Description
+代码很挫，以后再整理
 草稿形式的整理，后面有时间了，再慢慢整理，，这里面，介绍怎么使用，也写得不清楚，各位稍稍摸索下吧，提问后，我空了再来回答。
 search_paramter.py是用来 开多窗口，一次训练跑多个实验的脚本。它调用train.py
 train.py里面也可以修改，用train.py单独跑单个实验或者重启中断的实验
@@ -49,7 +50,7 @@ one experiment pretrain weight 部分实验的预训练权重：https://pan.baid
 **master** is the subimage version, and the **fullimage** is the fullimage version
  
  
-## Treasure
+## Experiments Manager
 search_hyperparams.py
 run more than 100+ experiments through configuration, very convenient to manage.
 
