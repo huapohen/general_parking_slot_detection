@@ -35,7 +35,8 @@ one experiment pretrain weight 部分实验的预训练权重：https://pan.baid
 
 
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/5.jpg)
- ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/4_1.png)
+ ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/4_1.png)  
+ or  
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/4_2.png)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/1.jpg)
  ![image](https://github.com/huapohen/general_parking_slot_detection/blob/master/dataset/pairable/2.jpg)
